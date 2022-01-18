@@ -1,0 +1,5 @@
+[preload  storage="./data/fgimage/chara/1/asahina-5.png"  ]
+[preload  storage="./data/bgimage/pic/honcyo.JPG"  ]
+[preload  storage="./data/fgimage/default/panfret.png"  ]
+[preload  storage="./data/bgimage/pic/home-hiru.JPG"  ]
+[return]

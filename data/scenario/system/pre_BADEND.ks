@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/pic/black.png"  ]
+[preload  storage="./data/bgimage/pic/gunyakigan.png"  ]
+[preload  storage="./data/bgimage/pic/magamaga.png"  ]
+[preload  storage="./data/fgimage/chara/1/asahina-5.png"  ]
+[preload  storage="./data/fgimage/chara/1/asahina-1.png"  ]
+[return]
